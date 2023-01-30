@@ -9,4 +9,4 @@ A note on open science: we strive to implement, where possible, TBS directives o
 https://science.gc.ca/site/science/en/office-chief-science-advisor/open-science/framework-implementing-open-default-federal-government-science
 
 Code of Conduct:
-*Under construction*
+https://github.com/Volcano-Risk-Reduction-in-Canada/VRRC/blob/main/CODE_OF_CONDUCT.md
